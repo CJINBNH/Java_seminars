@@ -1,0 +1,63 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Семинары",
+            "request": "launch",
+            "mainClass": "Семинары",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Task5",
+            "request": "launch",
+            "mainClass": "Task5",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Task4",
+            "request": "launch",
+            "mainClass": "Task4",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Task3",
+            "request": "launch",
+            "mainClass": "Task3",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Task2",
+            "request": "launch",
+            "mainClass": "Task2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "ru.gb.App",
+            "projectName": "binary_array"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "demo"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+.git
+.gitignore
+.vscode
+binary_array
+demo
+тест.txt
+урок 2
